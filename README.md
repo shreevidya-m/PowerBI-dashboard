@@ -14,15 +14,7 @@ Welcome to the Amazon Shopping Dashboard project! This dashboard is built using 
 - **User-Friendly Interface:** The dashboard is designed to be intuitive, making it easy for users to navigate and find the information they need.
 
 ## Simulation
-A simulation of the dashboard is available on my YouTube channel, where you can see the features and functionalities in action. Please check it out here: [YouTube Channel Link](https://youtu.be/50Pc0hxWEFo).
+A simulation of the dashboard is available on my YouTube channel, where you can see the features and functionalities in action. Please check it out here: (https://youtu.be/50Pc0hxWEFo).
 
-## Getting Started
-1. **Prerequisites:** Ensure you have Power BI installed on your machine.
-2. **Download the Dashboard:** [Insert download link here if applicable]
-3. **Open Power BI:** Launch Power BI and load the dashboard file.
-4. **Explore the Data:** Interact with the visualizations to analyze the Amazon shopping data.
 
-## Contact
-
-For any questions or feedback regarding the dashboard, feel free to reach out to me at [shreevidyasundar14@gmail.com].
 
